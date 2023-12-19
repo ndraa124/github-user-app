@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="desc_img_profile">Image Profile</string>
+
+    <string name="user_page">Github User\'s Search</string>
+    <string name="user_detail_page">Detail User</string>
+
+    <string name="tab_followers">Followers %1$d</string>
+    <string name="tab_following">Following %1$d</string>
+
+    <string name="hint_user_search">Search here…</string>
+
+    <string name="try_again">Try Again</string>
+</resources>
